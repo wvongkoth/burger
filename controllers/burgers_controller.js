@@ -29,7 +29,7 @@ router.put("/burgers/:id", function(req,res){
 
 	burger.updateOne({
 		devoured: true
-	}, condition, function(date){
+	}, condition, function(data){
 		res.redirect("/");
 	});
 });
