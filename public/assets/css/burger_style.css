@@ -1,0 +1,12 @@
+body {
+	background-image: url('http://www.realdetroitweekly.com/wp-content/uploads/2017/06/Restaurants.jpg');
+}
+
+#burgerHead {
+	background-image: url('https://cdn.arstechnica.net/wp-content/uploads/2017/08/impossible-burgers.jpg');
+}
+
+#burgerForm {
+	padding-left: 40%;
+	padding-top: 10%;
+}
